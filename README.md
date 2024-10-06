@@ -1,5 +1,9 @@
 # Live Site URL
+https://food-villa-23505.web.app/
 https://dorm-dine-6deee.web.app/
+
+# New Addition
+> Search functionality of the banner section 
 
 # React + Vite
 
